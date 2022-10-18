@@ -1,5 +1,4 @@
 package com.hit.product.adapter.web.base;
-
 import com.hit.product.domains.dtos.pagination.PaginateDto;
 import com.hit.product.domains.dtos.pagination.PaginationDto;
 import org.springframework.data.domain.Page;
